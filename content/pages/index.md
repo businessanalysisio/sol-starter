@@ -724,9 +724,9 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Hoang Sol
+  metaDescription: Business Analysis as a Service
+  socialImage: /images/Hoang.jpeg
   type: Seo
 type: PageLayout
 ---
