@@ -153,7 +153,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Teams unleashed delivery potentials
+  - subtitle: Teams who have unleashed delivery potentials
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
