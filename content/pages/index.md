@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Learn more..
         altText: ''
-        url: /
+        url: 'https://hoangsol.com/category/agile-business-analysis/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
