@@ -153,7 +153,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Teams who have unleashed delivery potentials
+  - subtitle: Teams who have unleashed delivery potentials..
     images:
       - url: /images/285777671_108455341887087_5079224005869079607_n.jpg
         altText: Phoenix Phuong Hoang Spa
