@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Collaborate & deliver value faster
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      From user story mapping to backlog prioritization, business analysts
+      ensure the team stay aligned, delivers value iteratively, and adapts to
+      change effortlessly.
     actions:
       - label: Get started
         altText: ''
