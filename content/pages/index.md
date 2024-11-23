@@ -156,7 +156,7 @@ sections:
   - subtitle: Teams who have unleashed delivery potentials
     images:
       - url: /images/285777671_108455341887087_5079224005869079607_n.jpg
-        altText: Empathy logo
+        altText: Phoenix Phuong Hoang Spa
         type: ImageBlock
       - url: /images/305253694_454729373375255_7887390189037289387_n.png
         altText: Wellster logo
