@@ -91,7 +91,7 @@ type: PostLayout
 
 COVID-19 affects multiple facets of work & life. We should tackle business problems along with COVID-19 from now.
 
-***WHY O**ur Business Should Exist*
+***WHY **Our Business Should Exist*
 
 *   **Adaptation to Remote Work Trends.** 
     With the widespread adoption of remote work policies, co-working spaces have become a crucial part of the modern work ecosystem. Our business exists to provide a dynamic and flexible co-working environment that caters to the changing needs of professionals who may no longer adhere to traditional office structures.
@@ -113,7 +113,7 @@ COVID-19 affects multiple facets of work & life. We should tackle business probl
 *   **Accelerated Development Cycles.**
     For businesses adopting agile DevOps practices, we become a catalyst for faster development cycles. Our environment is tailored to support collaborative workflows, reducing time-to-market and fostering innovation.
 
-***WHAT Impact Our Business Has***
+***WHAT** Impact Our Business Has*
 
 *   **Transformed Work Environments.**
     We redefine traditional workspaces, creating vibrant co-working environments to adapt the needs of the modern workforce.
