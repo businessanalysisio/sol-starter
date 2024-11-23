@@ -4,40 +4,31 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Empower your team with Agile BA
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Collaborate & deliver value faster
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      From user story mapping to backlog prioritization, business analysts
+      ensure the team stay aligned, delivers value iteratively, and adapts to
+      change effortlessly.
     actions:
-      - label: Get started
+      - label: Learn more..
         altText: ''
-        url: /
+        url: 'https://hoangsol.com/category/agile-business-analysis/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      url: /images/45. startup-3.png
+      altText: Seamlessly integrate business analysis into Agile workflows
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Agile business analysis
       color: text-primary
       type: Badge
     elementId: ''
@@ -59,15 +50,13 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: On-Demand Access to Expert Business Analysts
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: 500+
+        subtitle: Hours Delivered
+        text: |
+          TRUSTED EXPERTISE ACROSS INDUSTRIES / DOMAIN KNOWLEDGE.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -91,11 +80,9 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Faster Insights
+        text: |
+          ACCELERATE DECISION-MAKING WITH AGILE BUSINESS ANALYSIS.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -116,11 +103,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Efficiency Boost
+        text: |
+          STREAMLINED WORKFLOWS & BETTER RESOURCE ALLOCATION.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -139,7 +124,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Get started with BAaaS
         altText: ''
         url: /
         showIcon: false
@@ -149,7 +134,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Business Analysis As a Service
       color: text-primary
       styles:
         self:
@@ -168,28 +153,23 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Teams who have unleashed delivery potentials
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - url: /images/285777671_108455341887087_5079224005869079607_n.jpg
+        altText: Phoenix Phuong Hoang Spa
         type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
+      - url: /images/305253694_454729373375255_7887390189037289387_n.png
+        altText: our. Bakery
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
+      - altText: 'Green Global IT Jsc. '
         type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
+      - altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
+      - altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
+      - altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
+      - altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
@@ -435,7 +415,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -464,7 +445,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +505,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +535,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -646,8 +630,9 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
