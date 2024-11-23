@@ -164,8 +164,7 @@ sections:
       - url: /images/302052345_503243648474957_5083392471685920136_n.png
         altText: 'Green Global IT Jsc. '
         type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
+      - altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
