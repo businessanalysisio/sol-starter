@@ -50,7 +50,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: On-Demand Access to Expert Business Analysts
     items:
       - type: FeaturedItem
         title: 500k
