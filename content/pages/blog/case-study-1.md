@@ -87,15 +87,40 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
+# **🎯 Business Goals**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+COVID-19 affects multiple facets of work & life. We should tackle business problems along with COVID-19 from now.
 
-> Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
->
-> _By Clara White - VP of Marketing_
+***WHY O**ur Business Should Exist*
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   **Adaptation to Remote Work Trends.** 
+    With the widespread adoption of remote work policies, co-working spaces have become a crucial part of the modern work ecosystem. Our business exists to provide a dynamic and flexible co-working environment that caters to the changing needs of professionals who may no longer adhere to traditional office structures.
 
-![](/images/img-placeholder.svg)
+*   **Enabling Digital Transformation.**
+    The increased demand for digitalization is a significant driver for our business. We aim to be at the forefront of facilitating digital transformation for business of all sizes. By providing cutting-edge technology infrastructure and support, we empower our clients to embrace and excel in the digital age.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+*   **Facilitating Agile DevOps Practices.**
+    The shift towards agile DevOps practices is a testament to the need for efficient and collaborative development processes. Our business is committed to providing a conducive environment for agile workflows, fostering innovation, and promoting seamless collaboration among development teams.
+
+***HOW** We Impact Our Customers*
+
+*   **Enhanced Productivity and Flexibility.**
+    Through our co-working spaces, we offer professionals the flexibility to work in a way that suites them best. This is not only enhances their productivity but also contributes to a better work-life balance.
+
+*   **Digital Empowerment.**
+    Our focus on digitalization ensures that our clients stay ahead in an increasingly digitized world. By providing state-of-the-art technology infrastructure and support services, we empower businesses to thrive in the digital landscape.
+
+*   **Accelerated Development Cycles.**
+    For businesses adopting agile DevOps practices, we become a catalyst for faster development cycles. Our environment is tailored to support collaborative workflows, reducing time-to-market and fostering innovation.
+
+***WHAT Impact Our Business Has***
+
+*   **Transformed Work Environments.**
+    We redefine traditional workspaces, creating vibrant co-working environments to adapt the needs of the modern workforce.
+
+*   **Seamless Digital Experiences.**
+    Our clients experience a seamless transition into the digital realm, leveraging our technological offerings to streamline processes and enhance overall efficiency.
+
+*   **Innovative and Agile Culture.**
+    By facilitating agile DevOps practices, we contribute to the cultivation of a culture of innovation and adaptability within organizations, allowing them to respond swiftly to market changes.
+
