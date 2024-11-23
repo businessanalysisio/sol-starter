@@ -13,7 +13,7 @@ sections:
       ensure the team stay aligned, delivers value iteratively, and adapts to
       change effortlessly.
     actions:
-      - label: Get started
+      - label: Learn more..
         altText: ''
         url: /
         showIcon: false
