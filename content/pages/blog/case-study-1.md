@@ -29,9 +29,10 @@ bottomSections:
       - title: Coworking Space
         tagline: Case Study
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          Productivity.Digital is a digital product designed to help remote
+          workers increase their productivity and efficiency. It will provide
+          users with tools to help them manage their time, tasks, and projects
+          more effectively.
         image:
           url: /images/GettyImages-565297439web-56f98aa23df78c7841935490.jpg
           altText: Company logo
