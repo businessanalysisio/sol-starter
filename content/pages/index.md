@@ -161,8 +161,7 @@ sections:
       - url: /images/305253694_454729373375255_7887390189037289387_n.png
         altText: our. Bakery
         type: ImageBlock
-      - url: /images/302052345_503243648474957_5083392471685920136_n.png
-        altText: 'Green Global IT Jsc. '
+      - altText: 'Green Global IT Jsc. '
         type: ImageBlock
       - altText: Telus logo
         type: ImageBlock
