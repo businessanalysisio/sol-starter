@@ -7,7 +7,7 @@ sections:
       text: Empower your team with Agile BA
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Collaborate & deliver value faster
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
