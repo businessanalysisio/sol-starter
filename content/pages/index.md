@@ -724,7 +724,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Hoang Sol
   metaDescription: Business Analysis as a Service
   socialImage: /images/Hoang.jpeg
   type: Seo
