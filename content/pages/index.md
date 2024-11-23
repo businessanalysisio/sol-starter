@@ -23,7 +23,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: /images/45. startup-3.png
       altText: Seamlessly integrate business analysis into Agile workflows
       elementId: ''
       type: ImageBlock
