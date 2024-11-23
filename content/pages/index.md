@@ -155,7 +155,7 @@ sections:
         textAlign: center
   - subtitle: Teams who have unleashed delivery potentials
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/285777671_108455341887087_5079224005869079607_n.jpg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/305253694_454729373375255_7887390189037289387_n.png
