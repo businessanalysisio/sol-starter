@@ -153,7 +153,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Teams unleashed delivery potentials
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
