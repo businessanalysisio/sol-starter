@@ -725,7 +725,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Business Analysis as a Service
   socialImage: /images/Hoang.jpeg
   type: Seo
 type: PageLayout
