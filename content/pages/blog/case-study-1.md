@@ -1,5 +1,5 @@
 ---
-title: Coworking Space
+title: 13 Spaces
 slug: case-study-1
 date: '2024-11-09'
 excerpt: >-
