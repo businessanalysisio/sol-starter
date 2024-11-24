@@ -357,7 +357,7 @@ sections:
       shifts.
 
     actions:
-      - label: 'Our '
+      - label: Our MPR Library
         url: /
         showIcon: true
         icon: arrowRight
