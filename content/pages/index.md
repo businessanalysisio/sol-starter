@@ -306,9 +306,22 @@ sections:
     subtitle: >-
       Join our regular workshops and training sessions designed to enhance your
       skills.
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      Whether you are a beginner or an experienced professional, our program are
+      tailored to meet your needs.
+
+
+      *   **Interactive Workshops.** Hands-on sessions to practice real-world
+      techniques.
+
+
+      *   **Expert-Led Training.** Learn from industry professionals with years
+      of experience.
+
+
+      *   **Flexible Options.** Online and in-person sessions available for your
+      convenience.
+
     actions:
       - label: Get started
         url: /
