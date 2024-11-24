@@ -29,10 +29,8 @@ bottomSections:
       - title: 13 Spaces
         tagline: Case Study
         subtitle: >-
-          13 Spaces is a digital product designed to help remote workers
-          increase their productivity and efficiency. It will provide users with
-          tools to help them manage their time, tasks, and projects more
-          effectively.
+          13 Spaces is a strategic framework designed to enhance collaboration,
+          efficiency, and data-driven decision-making within organizations.
         image:
           url: /images/GettyImages-565297439web-56f98aa23df78c7841935490.jpg
           altText: Company logo
