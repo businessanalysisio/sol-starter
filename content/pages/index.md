@@ -153,31 +153,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Teams who have unleashed delivery potentials..
-    images:
-      - altText: Phoenix Phuong Hoang Spa
-        type: ImageBlock
-      - url: /images/305253694_454729373375255_7887390189037289387_n.png
-        altText: our. Bakery
-        type: ImageBlock
-      - altText: 'Green Global IT Jsc. '
-        type: ImageBlock
-      - altText: Telus logo
-        type: ImageBlock
-      - altText: Contentful logo
-        type: ImageBlock
-      - altText: Sanity logo
-        type: ImageBlock
-      - altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
