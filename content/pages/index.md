@@ -339,9 +339,23 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Gain actionable insights
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      Whether you're exploring new opportunities or refining your strategies,
+      our reports provide the data and analysis you need to make informed
+      decisions.
+
+
+      *   **Tailored for your business.** Insights customized to your industry
+      and goals.
+
+
+      *   **Data-driven decisions.** Leverage reliable data to identify
+      opportunities and mitigate risks.
+
+
+      *   **Stay ahead of trends.** Keep up with emerging trends and market
+      shifts.
+
     actions:
       - label: Get started
         url: /
