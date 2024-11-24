@@ -26,7 +26,7 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: Coworking Space
+      - title: 13 Spaces
         tagline: Case Study
         subtitle: >-
           Productivity.Digital is a digital product designed to help remote
