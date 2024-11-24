@@ -331,7 +331,7 @@ sections:
         type: Button
     media:
       url: /images/BA-Day-logo.jpg
-      altText: Fun feature preview
+      altText: ''
       type: ImageBlock
     badge:
       label: Accelerate your career in business analysis
