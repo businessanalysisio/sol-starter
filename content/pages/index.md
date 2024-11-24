@@ -357,7 +357,7 @@ sections:
       shifts.
 
     actions:
-      - label: See Tutorials
+      - label: 'Our '
         url: /
         showIcon: true
         icon: arrowRight
