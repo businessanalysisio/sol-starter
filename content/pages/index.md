@@ -708,7 +708,7 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: 'Submit, and let''s start building solutions together!'
         showIcon: false
         icon: arrowRight
         iconPosition: right
