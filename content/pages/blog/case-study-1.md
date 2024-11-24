@@ -29,10 +29,10 @@ bottomSections:
       - title: 13 Spaces
         tagline: Case Study
         subtitle: >-
-          Productivity.Digital is a digital product designed to help remote
-          workers increase their productivity and efficiency. It will provide
-          users with tools to help them manage their time, tasks, and projects
-          more effectively.
+          13 Spaces is a digital product designed to help remote workers
+          increase their productivity and efficiency. It will provide users with
+          tools to help them manage their time, tasks, and projects more
+          effectively.
         image:
           url: /images/GettyImages-565297439web-56f98aa23df78c7841935490.jpg
           altText: Company logo
