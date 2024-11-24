@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/GettyImages-565297439web-56f98aa23df78c7841935490.jpg
+  url: /images/work-at-home-office-5934a82b9863357958b50e529eb0467b.jpg
   altText: Case study 1
   styles:
     self:
