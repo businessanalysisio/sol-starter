@@ -300,7 +300,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Workshops and Training Programs
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
