@@ -124,7 +124,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started with BAaaS
+      - label: Learn more about BAaaS
         altText: ''
         url: /
         showIcon: false
