@@ -87,17 +87,15 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-# The Hub
+#### The Hub
 
 A dedicated physical space provides standardized tools, methodologies, and framework for analysis.
 
-# The Spoke
+#### The Spoke
 
 Various business units or teams that utilize the insights and resources provided by the Hub. Each spoke focuses on specific business needs and applies the centralized data to drive decision-making in their respective areas.
 
-
-
-**Benefits**
+#### **Benefits**
 
 *   While the Hub provides standardized tools and processes, each Spoke can adapt these resources to meet specific needs. This flexibility allows team to innovate and respond quickly to changing business conditions without deviating from established best practices.
 
