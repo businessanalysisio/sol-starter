@@ -323,7 +323,7 @@ sections:
       convenience.
 
     actions:
-      - label: Get started
+      - label: Schedule a call
         url: /
         icon: arrowRight
         iconPosition: right
