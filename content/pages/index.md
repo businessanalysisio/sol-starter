@@ -303,7 +303,9 @@ sections:
       text: Workshops and Training Programs
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: >-
+      Join our regular workshops and training sessions designed to enhance your
+      skills.
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
