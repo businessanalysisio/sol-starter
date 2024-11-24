@@ -338,7 +338,7 @@ sections:
       text: Market Research Reports
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Gain actionable insights
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
