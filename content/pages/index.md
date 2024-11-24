@@ -155,7 +155,7 @@ sections:
         textAlign: center
   - posts:
       - content/pages/blog/case-study-2.md
-    showThumbnail: true
+    showThumbnail: false
     showDate: true
     showAuthor: true
     variant: three-col-grid
