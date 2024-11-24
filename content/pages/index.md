@@ -669,11 +669,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: We are here to assist
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      Fill out the form below, and our team will get back to you shortly.
     media:
       fields:
         - name: name
