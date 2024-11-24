@@ -358,7 +358,7 @@ sections:
 
     actions:
       - label: Our MPR Library
-        url: /
+        url: 'https://www.baocao.site/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
