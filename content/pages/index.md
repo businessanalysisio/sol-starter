@@ -330,7 +330,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/hero2.svg
+      url: /images/BA-Day-logo.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
