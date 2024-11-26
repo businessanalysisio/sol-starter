@@ -19,16 +19,7 @@
             "type": "Social"
         }
     ],
-    "legalLinks": [
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "legalLinks": [],
     "copyrightText": "Powered by [BusinessAnalysis.io](https://businessanalysis.io)\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer",
