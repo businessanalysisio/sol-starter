@@ -47,7 +47,7 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
+            "altText": "WhatsApp link",
             "url": "https://github.com/netlify",
             "icon": "github",
             "type": "Social"
