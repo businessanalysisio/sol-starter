@@ -1,19 +1,5 @@
 {
     "text": "Take the road less traveled by.\n",
-    "primaryLinks": {
-        "title": "",
-        "links": [
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "secondaryLinks": {
         "title": "",
         "links": [],
