@@ -47,12 +47,6 @@
     },
     "socialLinks": [
         {
-            "altText": "WhatsApp link",
-            "url": "https://github.com/netlify",
-            "icon": "instagram",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/company/business-analysis-io/",
             "icon": "linkedin",
