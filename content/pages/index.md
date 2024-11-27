@@ -77,7 +77,7 @@ sections:
 
     actions:
       - label: Schedule a 15 min call
-        url: 'https://calendly.com/ngochoang0711/30min'
+        url: 'https://calendly.com/ngochoang0711/15min'
         icon: arrowRight
         iconPosition: right
         style: secondary
