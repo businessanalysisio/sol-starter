@@ -94,50 +94,6 @@ sections:
       self:
         alignItems: center
     type: GenericSection
-  - title:
-      text: Market Research Reports
-      color: text-dark
-      type: TitleBlock
-    subtitle: Gain actionable insights
-    text: >+
-      Whether you're exploring new opportunities or refining your strategies,
-      our reports provide the data and analysis you need to make informed
-      decisions.
-
-
-      *   **Tailored for your business.** Insights customized to your industry
-      and goals.
-
-
-      *   **Data-driven decisions.** Leverage reliable data to identify
-      opportunities and mitigate risks.
-
-
-      *   **Stay ahead of trends.** Keep up with emerging trends and market
-      shifts.
-
-    actions:
-      - label: Our MPR Library
-        url: 'https://www.baocao.site/'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/Screenshot 2024-11-24 at 16.04.18.png
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: Drive business forward
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
