@@ -77,7 +77,7 @@ sections:
 
     actions:
       - label: Schedule a call
-        url: /
+        url: 'https://calendly.com/ngochoang0711/30min'
         icon: arrowRight
         iconPosition: right
         style: secondary
