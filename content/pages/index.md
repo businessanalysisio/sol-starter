@@ -76,7 +76,7 @@ sections:
       convenience.
 
     actions:
-      - label: Schedule a call
+      - label: Schedule a 30 min call
         url: 'https://calendly.com/ngochoang0711/30min'
         icon: arrowRight
         iconPosition: right
