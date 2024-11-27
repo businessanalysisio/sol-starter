@@ -83,7 +83,6 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/BA-Day-logo.jpg
       altText: ''
       type: ImageBlock
     badge:
