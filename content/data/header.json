@@ -50,7 +50,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Workshops",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
