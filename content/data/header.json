@@ -58,7 +58,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Resources",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
