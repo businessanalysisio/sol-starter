@@ -11,12 +11,6 @@
             "url": "https://www.linkedin.com/company/sol-io-vn/",
             "icon": "linkedin",
             "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "mailto:hoang@businessanalysis.io",
-            "icon": "mail",
-            "type": "Social"
         }
     ],
     "legalLinks": [],
