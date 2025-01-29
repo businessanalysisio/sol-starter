@@ -12,16 +12,7 @@ sections:
       From user story mapping to backlog prioritization, business analysts
       ensure the team stay aligned, delivers value iteratively, and adapts to
       change effortlessly.
-    actions:
-      - label: Learn more..
-        altText: ''
-        url: 'https://hoangsol.com/category/agile-business-analysis/'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/45. startup-3.png
       altText: Seamlessly integrate business analysis into Agile workflows
