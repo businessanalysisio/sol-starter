@@ -92,7 +92,7 @@ sections:
 seo:
   metaTitle: Hoang Sol
   metaDescription: Business Analysis as a Service
-  socialImage: /images/Hoang.jpeg
+  socialImage: /images/image 89.png
   type: Seo
 type: PageLayout
 ---
