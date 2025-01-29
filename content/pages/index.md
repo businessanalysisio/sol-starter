@@ -14,7 +14,7 @@ sections:
       change effortlessly.
     actions: []
     media:
-      url: /images/45. startup-3.png
+      url: /images/fc7207e9-2a85-4e8d-8fd6-c2991efd5d3a_600x600.webp
       altText: Seamlessly integrate business analysis into Agile workflows
       elementId: ''
       type: ImageBlock
