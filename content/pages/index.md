@@ -75,13 +75,7 @@ sections:
       *   **Flexible Options.** Online and in-person sessions available for your
       convenience.
 
-    actions:
-      - label: Schedule a 15 min call
-        url: 'https://calendly.com/ngochoang0711/15min'
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
+    actions: []
     media:
       altText: ''
       type: ImageBlock
